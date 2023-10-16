@@ -1,0 +1,15 @@
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecraft.Data\bin\Debug\Scorecraft.Data.dll
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecraft.Data\bin\Debug\Scorecraft.Data.pdb
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecraft.Data\bin\Debug\Scorecraft.Core.dll
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecraft.Data\bin\Debug\EntityFramework.dll
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecraft.Data\bin\Debug\Scorecraft.Core.pdb
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecraft.Data\bin\Debug\Scorecraft.Core.dll.config
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecraft.Data\bin\Debug\EntityFramework.xml
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecraft.Data\obj\Debug\Scorecraft.Data.csproj.AssemblyReference.cache
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecraft.Data\obj\Debug\Scorecraft.Data.csproj.CoreCompileInputs.cache
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecraft.Data\obj\Debug\Scorecraft.Data.csproj.CopyComplete
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecraft.Data\obj\Debug\Scorecraft.Data.dll
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecraft.Data\obj\Debug\Scorecraft.Data.pdb
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecraft.Data\bin\Debug\Scorecraft.Data.dll.config
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecraft.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecraft.Data\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,6 @@
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecarft.Data\bin\Debug\Scorecarft.Data.dll
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecarft.Data\bin\Debug\Scorecarft.Data.pdb
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecarft.Data\obj\Debug\Scorecarft.Data.csproj.AssemblyReference.cache
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecarft.Data\obj\Debug\Scorecarft.Data.csproj.CoreCompileInputs.cache
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecarft.Data\obj\Debug\Scorecarft.Data.dll
+C:\Working\GitHub\scorecraft\Scorecraft\Scorecarft.Data\obj\Debug\Scorecarft.Data.pdb
